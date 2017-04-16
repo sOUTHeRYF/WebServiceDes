@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebServices>
+  <WebService>
+    <Request>
+      <Name>add</Name>
+      <RequestType>POST</RequestType>
+      <DataFormat>JSON</DataFormat>
+    </Request>
+  </WebService>
+</WebServices>
